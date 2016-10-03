@@ -1,0 +1,3 @@
+[submodule "metlab"]
+	path = metlab
+	url = git@github.com:norling/metlab.git
